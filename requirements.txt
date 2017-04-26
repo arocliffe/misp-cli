@@ -1,0 +1,4 @@
+requests
+pymisp
+yaml
+Jinja2

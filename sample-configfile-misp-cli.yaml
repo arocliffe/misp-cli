@@ -1,0 +1,10 @@
+misppriv:
+    api_key: xxx
+    url: https://misppriv.circl.lu/
+    ssl_certificate: /etc/ssl/certs/ca-certificates.crt
+
+barncat:
+    api_key: xxx
+    url: https://barncat.fidelissecurity.com/
+    ssl_certificate: /etc/ssl/certs/ca-certificates.crt
+
